@@ -1,0 +1,1 @@
+This program is a user-friendly application which converts .csv files or manual inputs of titles and serial numbers into letter-size pdfs of barcodes compatible with the Avery 1½" x 2¹³⁄₁₆" labels. This is a tool intended for New Canaan Music that I made on my high school senior internship and is also my first working app.

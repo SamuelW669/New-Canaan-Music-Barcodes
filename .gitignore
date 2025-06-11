@@ -1,0 +1,29 @@
+# Virtual environment
+NewCanaanMusicBarcodes/
+
+# Python cache
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+
+# PyInstaller build artifacts
+build/
+dist/
+*.spec
+
+# Mac and Windows system files
+.DS_Store
+Thumbs.db
+
+# API secrets
+*.json
+
+# Logs and misc
+*.log
+
+# Installer scripts (optional, if you use Inno Setup)
+installer.iss
+
+# Icons
+*.ico
